@@ -1,1 +1,2 @@
 # Smart-Trap-Lighting-Android_APK
+This is a non-market Android apk intended for updating the control settings on a customized LED array designed for testing lighting preferences of insects. Design files for the LED array are included in the repository https://github.com/danielje/Smart-Trap-Lighting-Hardware, with firmware for the device compatible with this app in the repository https://github.com/danielje/Smart-Trap-Lighting-Firmware. A manual with instructions for using this app to update the settings on the LED array are included as a pdf file in this repository.
